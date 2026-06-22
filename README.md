@@ -62,7 +62,6 @@ I'm currently completing my **Master 2 in Web Development** and love turning des
 
 ## 📫 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/ton-profil)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ismaellefiononantsoa@gmail.com)
 
 ---
