@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi 👋 I'm Ismaelle
 
-<!--
-**Ismaellerakotoson/Ismaellerakotoson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Front-End Developer | React | JavaScript
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 About
+
+Front-end developer focused on building clean, responsive and interactive web interfaces.
+
+I mainly work with React, JavaScript and Tailwind CSS.
+
+---
+
+## 🧰 Tech Stack
+
+- HTML / CSS / JavaScript
+- React
+- Tailwind CSS
+- Git & GitHub
+
+---
+
+## 📌 Projects
+
+Some of my recent front-end projects:
+
+- Social Media Dashboard (React + theme switch)
+- Time Tracking Dashboard (React)
+- Tip Calculator App (Vanilla JS)
+- E-commerce UI project
+
+---
+
+## 📫 Contact
+
+- Email: ismaellefiononantsoa@gmail.com
+- GitHub: github.com/Ismaellerakotoson
