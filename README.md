@@ -7,7 +7,7 @@
 ## 💻 About Me
 
 Front-End Developer with a strong focus on **clean, responsive and accessible interfaces**.  
-I'm currently completing my **Master 2 in Web Development** and love turning designs into interactive, pixel-perfect experiences.
+I love turning designs into interactive, pixel-perfect experiences.
 
 **What sets me apart :**
 - 🎯 **documented projects** on GitHub – all with clear READMEs
