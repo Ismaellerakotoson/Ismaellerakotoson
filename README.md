@@ -17,7 +17,6 @@
 
 🌙 code deep-diver, best debugging happens past midnight  
 🎧 always has music on while coding  
-🇲🇬 proudly Malagasy, dreaming in French, English & code  
 🧩 pixel-perfect is not a preference, it's a personality trait
 
 </div>
