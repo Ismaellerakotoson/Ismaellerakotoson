@@ -1,5 +1,4 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hi,%20I'm%20Isma%C3%ABlle%20✨&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Front-End%20Developer%20💻🌸&descAlignY=55&descSize=18" width="100%"/>
 <a href="https://github.com/Ismaellerakotoson">
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=800&color=D946A6&center=true&vCenter=true&width=500&lines=Building+cute+%26+functional+interfaces+%F0%9F%8C%B8;Obsessed+with+clean%2C+responsive+design+%E2%9C%A8;Always+leveling+up+my+skills+%F0%9F%92%95" alt="Typing SVG" />
 </a>
@@ -17,6 +16,7 @@
 
 🌙 code deep-diver, best debugging happens past midnight  
 🎧 always has music on while coding  
+🇲🇬 proudly Malagasy, dreaming in French, English & code  
 🧩 pixel-perfect is not a preference, it's a personality trait
 
 </div>
