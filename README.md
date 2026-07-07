@@ -11,15 +11,7 @@
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,nodejs,python,mysql,mongodb&theme=light" />
 </div>
 <br/>
-<h3 align="center">✨ A Few Fun Facts ✨</h3>
-<div align="center">
 
-🌙 code deep-diver, best debugging happens past midnight  
-🎧 always has music on while coding  
-🇲🇬 proudly Malagasy, dreaming in French, English & code  
-🧩 pixel-perfect is not a preference, it's a personality trait
-
-</div>
 <br/>
 <div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%">
