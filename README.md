@@ -1,22 +1,18 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:FFD1E8,100:C9A7FF&height=220&section=header&text=Isma%C3%ABlle%20Rakotoson&fontSize=38&fontColor=6B4E71&animation=fadeIn&fontAlignY=38&desc=Front-End%20Developer%20%F0%9F%8C%B8&descAlignY=58&descSize=20&descColor=6B4E71" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F7E7CE,100:B76E79&height=200&section=header&text=Isma%C3%ABlle%20Rakotoson&fontSize=36&fontColor=4A2C2A&animation=fadeIn&fontAlignY=40&desc=Front-End%20Developer&descAlignY=60&descSize=18&descColor=4A2C2A" width="100%"/>
 
 <br/>
 
 <a href="https://github.com/Ismaellerakotoson">
-  <img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=600&size=22&duration=2800&pause=900&color=B565A7&center=true&vCenter=true&width=480&lines=building+cute+%26+accessible+UIs+%F0%9F%8C%B7;pixel-perfect+%2B+responsive+always+%F0%9F%92%AB;learning+something+new+every+day+%F0%9F%8C%B1" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=500&size=20&duration=3200&pause=1000&color=B76E79&center=true&vCenter=true&width=460&lines=crafting+clean%2C+responsive+interfaces;detail-oriented+%26+accessibility-focused;always+learning%2C+always+building" alt="Typing SVG" />
 </a>
-
-<br/><br/>
-
-<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="380">
 
 </div>
 
 <br/>
 
-<h3 align="center">🎀 tech stack 🎀</h3>
+<h3 align="center">Tech Stack</h3>
 
 <div align="center">
 
@@ -24,25 +20,24 @@
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/Swagger-FFD1E8?style=for-the-badge&logo=swagger&logoColor=B565A7" />
+<img src="https://img.shields.io/badge/Swagger-F7E7CE?style=for-the-badge&logo=swagger&logoColor=B76E79" />
 
 </div>
 
 <br/>
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/221352995-5ac18bdf-1a66-4a94-b8b8-2c56cb7f8f6a.gif" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:F7E7CE,100:B76E79&height=3&width=800" width="80%"/>
 </div>
 
 <br/>
 
 <div align="center">
 
-### 🩰 say hi
-<a href="mailto:ismaellefiononantsoa@gmail.com"><img src="https://img.shields.io/badge/Gmail-FFD1E8?style=for-the-badge&logo=gmail&logoColor=B565A7"/></a>
+<a href="mailto:ismaellefiononantsoa@gmail.com"><img src="https://img.shields.io/badge/Gmail-F7E7CE?style=for-the-badge&logo=gmail&logoColor=B76E79"/></a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=Ismaellerakotoson&style=flat&color=e5aacb&label=profile+views" />
+<img src="https://komarev.com/ghpvc/?username=Ismaellerakotoson&style=flat&color=B76E79&label=profile+views" />
 
 </div>
